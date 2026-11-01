@@ -646,6 +646,10 @@
    "dai": "寄元動寺座主"
   }
  ],
+ "translation": {
+  "count": 10,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-sanjurokuban-sumodachi-shiika",
   "work": "三十六番相撲立詩歌",
@@ -658,7 +662,7 @@
   "blocks": 10,
   "chars": 1841,
   "poems": 34,
-  "yaku": 0,
+  "yaku": 10,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T01:59:35+09:00"
